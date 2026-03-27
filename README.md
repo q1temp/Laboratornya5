@@ -46,13 +46,13 @@
 
 Скриншоты результата работы программы 
 
+<img width="207" height="141" alt="Image" src="https://github.com/user-attachments/assets/ff3a46ed-e758-4f7b-810a-18c8b7b36487" />
 
 
 
 
 
-
-# Задание 5
+# Задание 4
 
 
 
@@ -109,6 +109,7 @@
 
 
 Скриншоты результата работы программы
+
 <img width="291" height="84" alt="Image" src="https://github.com/user-attachments/assets/4b52cd21-bdff-49bb-a5de-98a246da2b47" />
 
 
